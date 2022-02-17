@@ -21,22 +21,24 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Pisces","darkmode":true,"version":"8.10.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/js/config.js"></script>
 
-  <meta property="og:type" content="article">
+  <meta name="description" content="Two days ago, a reader told me excitedly that he had found a super simple way to make money with a monthly income of 100000. He asked me if it was feasible. I asked him what way? “We can’t reveal too">
+<meta property="og:type" content="article">
 <meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://example.com/2022/02/17/a/index.html">
+<meta property="og:url" content="http://example.com/2022/02/17/A_big_project_with_a_monthly_income_of_100000,_can_you_see">
 <meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="Two days ago, a reader told me excitedly that he had found a super simple way to make money with a monthly income of 100000. He asked me if it was feasible. I asked him what way? “We can’t reveal too">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2022-02-17T13:28:50.765Z">
-<meta property="article:modified_time" content="2022-02-17T13:28:50.765Z">
+<meta property="article:published_time" content="2022-02-17T13:34:45.392Z">
+<meta property="article:modified_time" content="2022-02-17T13:34:45.392Z">
 <meta property="article:author" content="mapprouter">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="http://example.com/2022/02/17/a/">
+<link rel="canonical" href="http://example.com/2022/02/17/A_big_project_with_a_monthly_income_of_100000,_can_you_see">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/2022/02/17/a/","path":"2022/02/17/a/","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"http://example.com/2022/02/17/A_big_project_with_a_monthly_income_of_100000,_can_you_see?/","path":"2022/02/17/A_big_project_with_a_monthly_income_of_100000,_can_you_see?/","title":""}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title> | Hexo</title>
@@ -94,7 +96,7 @@
 
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           Table of Contents
@@ -107,6 +109,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#It%E2%80%99s-important-to-find-areas-of-interest"><span class="nav-number">1.</span> <span class="nav-text">It’s important to find areas of interest</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -177,7 +180,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://example.com/2022/02/17/a/">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2022/02/17/A_big_project_with_a_monthly_income_of_100000,_can_you_see?/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -201,7 +204,7 @@
       </span>
       <span class="post-meta-item-text">Posted on</span>
 
-      <time title="Created: 2022-02-17 08:28:50" itemprop="dateCreated datePublished" datetime="2022-02-17T08:28:50-05:00">2022-02-17</time>
+      <time title="Created: 2022-02-17 08:34:45" itemprop="dateCreated datePublished" datetime="2022-02-17T08:34:45-05:00">2022-02-17</time>
     </span>
 
   
@@ -214,7 +217,9 @@
     
     
     <div class="post-body" itemprop="articleBody">
-        
+        <p>Two days ago, a reader told me excitedly that he had found a super simple way to make money with a monthly income of 100000. He asked me if it was feasible. I asked him what way? “We can’t reveal too much, we can only talk about the general idea,” he said<br>I didn’t really want to hear it, but I was even more puzzled by what he said. There is no big project on the Internet that has been studied by newcomers. He politely agreed and asked him to give a general idea.<br>He then said: “good content is common. This platform can fire. Basically, another platform can also fire.”<br>“I agree, I agree.”<br>He continued: “the official account of 10W+’s explosive text is sent to the headlines today with the pseudo original tools, and then cut off a key to turn it into a short video.”<br>I roughly understand. I don’t know how you feel after listening to his thoughts. Anyway, I laughed after listening.<br>I asked him, “have you ever seen anyone operate like this? Have there been any successful cases?”<br>“I haven’t seen it yet. I should be the first to think of it,” he said<br>I couldn’t help laughing. I said to him, “go and spell more search keywords. Today’s headlines move bricks and buy two at random to see if it’s the same as your idea.”<br>He shouted: “lying trough, Uncle Wang, how do you know this? How can you sell it for a few dollars? Is it difficult to get to the point that this project won’t work?”<br>I said, “not only is it sold now, but it was sold five years ago. Do you know why there are no successful cases?”<br>He was puzzled.<br>I went on to say: “You want to understand a problem. You know what a problem is. No matter today’s headlines, official account or public knowledge, there are many accounts in the team operation. They write every day conscientiously and original. They can’t recognize their parents, so they are very hard to fire and hard to make money as you say. Operate multiple accounts and spend a little time every day to make money easily?<br>If the machine can work, who will hire labor; If one person can operate multiple accounts, who will build a team; If it only takes a little time, who will be tired every day. It’s not that others didn’t think of it, but it won’t work at all. People are not stupid. Smart people don’t do things, but you think it’s good. Who’s stupid? “<br>He then asked, “is there really no project suitable for newcomers?”</p>
+<h3 id="It’s-important-to-find-areas-of-interest"><a href="#It’s-important-to-find-areas-of-interest" class="headerlink" title="It’s important to find areas of interest"></a>It’s important to find areas of interest</h3><p>A classmate of mine, who watched the TV “settle down” performed by Sun Li during college, had a strong interest in real estate sales. Even if it was a book, I decided to do sales and sell houses after graduation. Relatives laughed at him. A college student ran to sell his house. Why go to college. But just because he is a graduate with good foundation and strong understanding ability, he basically won the championship every month and made 1 million in two years. He just mentioned a BMW 5 series last year. When he went home for the new year, all the people who saw jokes shut up. “<br>“I’m very interested in our media, but I don’t know how to start,” he said<br>I said, “it’s not difficult to start with. Remember four words - find a benchmark! Stop thinking about the project. Others have thought of and practiced countless ways to make money you can think of. Find a specific benchmark and start imitating what you can imitate first.<br>Don’t be interested in Li Jiaqi at first. You can’t imitate it if you want to, and your ability and resources are not enough;<br>Small self media people like Uncle Wang are very easy to imitate; When Uncle Wang first started to do film commentary at station B, he also watched more and felt that he had this ability, so he had the idea of making video. Learning all the way, growing and changing benchmarking objects, has come to this day. “<br>He: “I see. Find the target! Thank you, Uncle Wang. This explanation is very grounded. A few simple words are worth more than the courses in 998 outside.” Then he sent a big red envelope.<br>I said, “I know how to be grateful and how to exchange values. Young man is valuable and has a bright future.”.<br>Author: Wang Shu official account: Uncle Wang notes</p>
+
     </div>
 
     
@@ -227,11 +232,11 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
+                <a href="/2022/02/17/Business_opportunities_hidden_in_the_Winter_Olympics/" rel="prev" title="">
+                  <i class="fa fa-chevron-left"></i> 
+                </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2022/02/17/Years_later,_mastering_the_word_%22lazy%22_will_never_lack_entrepreneurial_opportunities/" rel="next" title="">
-                   <i class="fa fa-chevron-right"></i>
-                </a>
             </div>
           </div>
     </footer>
